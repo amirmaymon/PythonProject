@@ -1,13 +1,13 @@
-project by:
-Nadav Ido
-Inbar Ginat
+project by: Amir Maymon
+
+
 
 
 couple of points apout the project:
 
-~ we decided to make the time and date internal, the days are changed menualy through the menue in a linear way.
+~ I decided to make the time and date internal, the days are changed menualy through the menue in a linear way.
 
-~ we also asummed that the librarian and customers aren't very good with computers,
+~ I also asummed that the librarian and customers aren't very good with computers,
      so the input is always checked and in some cases if the user input is invalid a default decivion is made for
      them instead of retryng until they "get it".
 

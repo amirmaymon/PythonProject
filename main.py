@@ -1,4 +1,4 @@
-#project by: Nadav Ido, Inbar Ginat
+#project by: Amir Maymon
 
 from Library import Library
 import pickle
